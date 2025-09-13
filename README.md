@@ -1,1 +1,0 @@
-Simple hangman game project
